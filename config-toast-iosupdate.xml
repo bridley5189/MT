@@ -9,7 +9,7 @@
 	<Option Name="PendingRebootUptimeText" Enabled="False" />	<!-- Adds an additional group to the toast with text about the uptime of the computer -->
 	<Option Name="CustomNotificationApp" Enabled="True" Value="Toast Notification Script"/>	<!-- The app in Windows doing the actual notification. When enabled, uses custom app. When disabled, automatically defaults to PowerShell app for reliable notification delivery -->
 	<Option Name="LogoImageName" Value="https://toast.imab.dk/ToastLogoImageIMAB.png" />  <!-- File name of the image shown as logo in the toast notoification  -->
-	<Option Name="HeroImageName" Value="https://github.com/bridley5189/MT/blob/main/ToastHeroImageiOS.png" /> <!-- File name of the image shown in the top of the toast notification -->	
+	<Option Name="HeroImageName" Value="https://toast.imab.dk/ToastHeroImageiOS.png" /> <!-- File name of the image shown in the top of the toast notification -->	
 	<Option Name="ActionButton1" Enabled="True" />	<!-- Enables or disables the action button. -->
 	<Option Name="ActionButton2" Enabled="False" />	<!-- Enables or disables the action button. -->
 	<Option Name="DismissButton" Enabled="True" />	<!-- Enables or disables the dismiss button. -->
